@@ -35,7 +35,7 @@ farmers preserving their food effectively resulting in improving agricultural pr
 room reaches a user-defined maximum temperature value, the heater will be stopped.</li>
 <li>When the heater is on, the fan2 will be on as well to make the temperature of the air be evenly distributed
 in the dry room</li>
-<li>3. If the humidity inside the dry room is greater than a user-defined maximum humidity, the fan1 will be
+<li> If the humidity inside the dry room is greater than a user-defined maximum humidity, the fan1 will be
 turned on to transfer the humidity air from the dry room to the outside. We can control the speed of the
 fan1. For example, when the humidity is about 90% or more, the fan1 will run in full speed. When 80%, the
 fan will run at 80% of the full speed and so on</li>
